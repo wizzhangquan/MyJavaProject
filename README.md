@@ -1,0 +1,2 @@
+# MyJavaProject
+For learning
